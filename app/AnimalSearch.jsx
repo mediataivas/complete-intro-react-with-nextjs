@@ -1,7 +1,5 @@
 const ANIMALS = ["bird", "cat", "dog", "rabbit", "reptile"];
 
-import { cookies } from "next/headers";
-
 const AnimalSearch = ({ pets, breeds, filters, adoptedPet }) => {
   return (
     <div className="search-params">

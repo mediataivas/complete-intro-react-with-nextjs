@@ -1,5 +1,6 @@
-This is a Next.js version of app developed in https://react-v8.holt.courses/lessons/welcome/intro. It uses server components and server actions and functions with javascript turned of. Implemented as an experimentation at Vincit hackfest 2023.
+This is a Next.js version of app developed in https://react-v8.holt.courses/lessons/welcome/intro. It uses server components and server actions and functions with javascript turned off. Implemented as an experimentation at Vincit hackfest 2023.
 
+See it live at https://complete-intro-react-with-nextjs.vercel.app. 
 
 
 
